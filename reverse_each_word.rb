@@ -1,6 +1,5 @@
 
-def reverse_each_word(string)
-  "The Krusty Krab Pizza is the Pizza for you and me."
-  string.reverse
+def reverse_each_word("Hello there, and how are you?")
+  "Hello there, and how are you?".reverse
+ end 
 end
-end 
