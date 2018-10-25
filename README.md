@@ -1,6 +1,6 @@
-# Reverse Each Word
+# Reverse Each World
 
-## Objectives
+## Object
 
 1. Understand the return value of the each method
 2. Use the .collect method
